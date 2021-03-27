@@ -1,7 +1,9 @@
 body{
-    max-width: 800px;
-    margin: 0 auto ;
+    /* max-width: 800px;
+    min-height: 300vh; */
+    margin: 0 ;
     font-family: "P22 Underground CY Pro" ;
+   background-color: black;
     }
 
     p{
